@@ -9,5 +9,6 @@ public class ToListConverting {
     List<String> list = Arrays.asList(array);
     System.out.println(list);
 
+
     }
 }
